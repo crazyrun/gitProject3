@@ -17,6 +17,7 @@ public class SLF4JDemo {
         logger.info("这是info.....");
         logger.warn("这是warn.....");
         logger.error("这是error...");
+        logger.info("hello world");
 
         logger.info("Hello {}, welcome to {}", name, nation); // 接变量
     }
